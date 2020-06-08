@@ -282,3 +282,16 @@ a{
   border: 3px solid #AB00EA;
   height: 340px;
 }
+
+.sert-texts__header{
+
+}
+
+.welcomeBook{
+  display: flex;
+  flex-direction: row;
+}
+
+.welcomeBook-img{
+  align: left;
+}
