@@ -1,0 +1,56 @@
+@font-face {
+  font-family: "TT Firs Neue-Bold";
+  src: url("fonts/TT Firs Neue//TT Firs Neue-Bold/TTFirsNeue-Bold.eot");
+  src: url("fonts/TT Firs Neue/TT Firs Neue-Bold/TTFirsNeue-Bold.eot?#iefix") format("embedded-opentype"),
+          url("fonts/TT Firs Neue/TT Firs Neue-Bold/TTFirsNeue-Bold.woff") format("woff"),
+          url("fonts/TT Firs Neue/TT Firs Neue-Bold/TTFirsNeue-Bold.ttf") format("teletype");
+}
+
+@font-face {
+  font-family: "TT Firs Neue-DemiBold";
+  src: url("fonts/TT Firs Neue/TT Firs Neue-DemiBold/TTFirsNeue-DemiBold.eot");
+  src: url("fonts/TT Firs Neue/TT Firs Neue-DemiBold/TTFirsNeue-DemiBold.eot?#iefix") format("embedded-opentype"),
+          url("fonts/TT Firs Neue/TT Firs Neue-DemiBold/TTFirsNeue-DemiBold.woff") format("woff"),
+          url("fonts/TT Firs Neue/TT Firs Neue-DemiBold/TTFirsNeue-DemiBold.ttf") format("teletype");
+}
+
+@font-face {
+  font-family: "TT Firs Neue-ExtraLight";
+  src: url("fonts/TT Firs Neue/TT Firs Neue-ExtraLight/TTFirsNeue-ExtraLight.eot");
+  src: url("fonts/TT Firs Neue/TT Firs Neue-ExtraLight/TTFirsNeue-ExtraLight.eot?#iefix") format("embedded-opentype"),
+          url("fonts/TT Firs Neue/TT Firs Neue-ExtraLight/TTFirsNeue-ExtraLight.woff") format("woff"),
+          url("fonts/TT Firs Neue/TT Firs Neue-ExtraLight/TTFirsNeue-ExtraLight.ttf") format("teletype");
+}
+
+@font-face {
+  font-family: "TT Firs Neue-Light";
+  src: url("fonts/TT Firs Neue/TT Firs Neue-Light/TTFirsNeue-Light.eot");
+  src: url("fonts/TT Firs Neue/TT Firs Neue-Light/TTFirsNeue-Light.eot?#iefix") format("embedded-opentype"),
+          url("fonts/TT Firs Neue/TT Firs Neue-Light/TTFirsNeue-Light.woff") format("woff"),
+          url("fonts/TT Firs Neue/TT Firs Neue-Light/TTFirsNeue-Light.ttf") format("teletype");
+}
+
+@font-face {
+  font-family: "TT Firs Neue-LightItalic";
+  src: url("fonts/TT Firs Neue/TT Firs Neue-LightItalic/TTFirsNeue-LightItalic.eot");
+  src: url("fonts/TT Firs Neue/TT Firs Neue-LightItalic/TTFirsNeue-LightItalic.eot?#iefix") format("embedded-opentype"),
+          url("fonts/TT Firs Neue/TT Firs Neue-LightItalic/TTFirsNeue-LightItalic.woff") format("woff"),
+          url("fonts/TT Firs Neue/TT Firs Neue-LightItalic/TTFirsNeue-LightItalic.ttf") format("teletype");
+}
+
+@font-face {
+  font-family: "TT Firs Neue-Medium";
+  src: url("fonts/TT Firs Neue/TT Firs Neue-Medium/TTFirsNeue-Medium.eot");
+  src: url("fonts/TT Firs Neue/TT Firs Neue-Medium/TTFirsNeue-Medium.eot?#iefix") format("embedded-opentype"),
+          url("fonts/TT Firs Neue/TT Firs Neue-Medium/TTFirsNeue-Medium.woff") format("woff"),
+          url("fonts/TT Firs Neue/TT Firs Neue-Medium/TTFirsNeue-Medium.ttf") format("teletype");
+}
+
+@font-face {
+  font-family: "TT Firs Neue-Regular";
+  src: url("fonts/TT Firs Neue/TT Firs Neue-Regular/TTFirsNeue-Regular.eot");
+  src: url("fonts/TT Firs Neue/TT Firs Neue-Regular/TTFirsNeue-Regular.eot?#iefix") format("embedded-opentype"),
+          url("fonts/TT Firs Neue/TT Firs Neue-Regular/TTFirsNeue-Regular.woff") format("woff"),
+          url("fonts/TT Firs Neue/TT Firs Neue-Regular/TTFirsNeue-Regular.ttf") format("teletype");
+
+}

@@ -1,0 +1,284 @@
+body{
+  background: black;
+  background-image:   url(img/background.png);
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-size: 50em;
+  font-family: "TT Firs Neue-Regular";
+}
+
+.wrapper{
+  width: 1500px;
+  margin: 0 auto;
+}
+
+.active a{
+  color:#AB00EA !important;
+}
+
+a{
+  color:white !important;
+}
+
+.social__listItem{
+  margin-right: 24px;
+   list-style-type: none;
+}
+
+.navbar{
+  padding-bottom: 152px;
+}
+
+.logo{
+  margin-left: -35px;
+}
+
+.baner__name-h1{
+  color: #AB00EA;
+  font-family: "TT Firs Neue-Bold";
+  font-size: 64px;
+}
+
+.baner__name-p{
+  font-family: "TT Firs Neue-Light";
+  font-size: 48px;
+  color: white;
+}
+
+.baner__batton{
+  font-family: "TT Firs Neue-Medium";
+  font-size: 24px;
+  display: flex;
+  flex-direction: row;
+}
+
+.carusel_header{
+  color: white;
+  width: 450px;
+  align-self: flex-end;
+}
+
+.baner__batton__proposal{
+  background-color: #AB00EA;
+  border-radius: 5px;
+}
+
+.events-more__alias{
+  color:white;
+  font-size: 24pt;
+  font-style: "TT Firs Neue-ExtraLight";
+}
+
+.events-block{
+  width: 400px;
+  border: 3px solid #ab00ea;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.9);
+  margin-bottom: 30px;
+}
+
+.events-block__header{
+  background-color: #ab00ea;
+  padding-top: 10px;
+  padding-left: 21px;
+  width: 157px;
+  height: 35px;
+  font-size: 10pt;
+  font-family: "TT Firs Neue-Regular";
+}
+
+.event-block__header4{
+  font-family: "TT Firs Neue-Medium";
+  font-size: 17pt;
+}
+
+.event-block_img{
+  width: 100%;
+}
+
+.events-block-button{
+  background-color: #AB00EA;
+  border: none;
+  margin-top: 12px;
+}
+
+.block-header{
+  margin-top: 50px;
+  font-size: 64px;
+  color: white;
+  font-family: "TT Firs Neue-Bold";
+}
+
+.specialty{
+  height: 450px;
+  border: 3px solid #AB00EA;
+  color: white;
+}
+
+.specialty-header__license{
+  font-size: 12pt;
+  font-family:  "TT Firs Neue-Regular";
+  background-color: #ab00ea;
+  width: 160px;
+  margin-top: 20px;
+  padding: 10px 10px 10px 10px;
+}
+
+.specialty{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-bottom: 20px
+}
+
+.specialty-footer__paragrath{
+  font-size: 14;
+  font-family: "TT Firs Neue-Light"
+}
+
+.specialty-web{
+  background-image: url(img/web.png);
+  background-repeat: no-repeat;
+  background-size: 100%
+}
+
+.specialty-programmer{
+  background-image: url(img/programmer.png);
+  background-repeat: no-repeat;
+  background-size: 100%
+}
+
+.specialty-adt{
+  background-image: url(img/adt.png);
+  background-repeat: no-repeat;
+  background-size: 100%
+}
+
+.specialty-fin{
+  background-image: url(img/fin.png);
+  background-repeat: no-repeat;
+  background-size: 100%
+}
+
+.specialty-kb{
+  background-image: url(img/kb.png);
+  background-repeat: no-repeat;
+  background-size: 100%
+}
+
+.specialty-sysAdmin{
+  background-image: url(img/sysAdmin.png);
+  background-repeat: no-repeat;
+  background-size: 100%
+}
+
+.specialty-comerce{
+  background-image: url(img/comerce.png);
+  background-repeat: no-repeat;
+  background-size: 100%
+}
+
+.specialty-design{
+  background-image: url(img/design.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.specialty-media{
+  background-image: url(img/meddia.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin-right: 13px;
+}
+
+.specialty-early{
+  background-image: url(img/early.png);
+  background-repeat: no-repeat;
+  background-size: 100%
+}
+
+.mail-block__form{
+  width: 700px;
+}
+
+.mail-block__header{
+  color: white;
+  font-family: TT Firs Neue-Light;
+  font-size: 36pt;
+  margin-bottom: 50px;
+}
+
+.mail-block__form__input{
+  background-color: black;
+  border: none;
+  border-bottom: 2px solid white;
+  margin-bottom: 60px;
+}
+
+.mail-block__form__submit{
+  background-color: #AB00EA;
+  border: none;
+  color: white;
+  font-size: 24pt;
+  font-family: TT Firs Neue-DemiBold
+}
+
+.owl-nav span{
+  display: none;
+}
+
+.owl-dots{
+    display: flex;
+    justify-content: center;
+}
+
+.owl-dots .owl-dot span{
+  display: inline-block;
+  width: 90px;
+  height: 5px;
+  background-color: #111112;
+}
+
+.owl-dots .owl-dot:first-child span{
+  border-radius: 5px 0 0 5px;
+}
+
+.owl-dots .owl-dot:last-child span{
+  border-radius: 0 5px 5px 0;
+}
+
+.owl-dots .active span{
+  background-color: #AB00EA !important;
+}
+
+.carusel1{
+  background-image: url(img/carusel1.png);
+  background-repeat: no-repeat;
+  height: 315px;
+}
+.carusel2{
+  background-image: url(img/carusel2.png);
+  background-repeat: no-repeat;
+  height: 315px;
+  border:
+}
+.carusel3{
+  background-image: url(img/carusel3.png);
+  background-repeat: no-repeat;
+  height: 315px;
+}
+.carusel4{
+  background-image: url(img/carusel4.png);
+  background-repeat: no-repeat;
+  height: 315px;
+}
+.carusel5{
+  background-image: url(img/carusel5.png);
+  background-repeat: no-repeat;
+  height: 315px;
+}
+
+.sert-block{
+  border: 3px solid #AB00EA;
+  height: 340px;
+}
